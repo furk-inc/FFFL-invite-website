@@ -39,9 +39,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/ravens-def.jpg': 'center',
+							'images/moss-over-revis.jpg': 'center',
+                            'images/juliojones.jpg': 'center',
+							'images/manning.jpg': 'center'
 						},
 
 					// Delay.
